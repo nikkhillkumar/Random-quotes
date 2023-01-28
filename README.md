@@ -3,14 +3,15 @@ A simple and elegant chrome extension that generates random quotes from an API.
 
 ## Features
 - Generates random quotes from a curated list of quotes
-- Displays the quote and the author's name
-- Option to share the quote on social media platforms
-- Option to add the quote as a bookmark for future reference
+- Displays the Generate Quote button
+- Quote is generated in a single Click
 
 ## Installation
 1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/random-quotes/your-extension-id)
-2. Click on "Add to Chrome"
-3. Click on "Add extension" in the pop-up window
+2. Enable "Developer mode"
+3. Click "Load Unpacked" button
+4. Navigate to the extension's directory and select the folder
+5. The extension will now be installed and visible in the list of extensions
 
 ## Usage
 1. Click on the extension icon in the top right corner of your browser
