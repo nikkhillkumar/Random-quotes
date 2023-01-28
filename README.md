@@ -15,8 +15,8 @@ A simple and elegant chrome extension that generates random quotes from an API.
 
 ## Usage
 1. Click on the extension icon in the top right corner of your browser
-2. A new quote will be generated and displayed
-3. Use the share and bookmark buttons to save or share the quote
+2. Click again on the Generate Quotes Button
+3. A new quote will be generated and displayed.
 
 ## API
 This extension uses [Quotable API](https://github.com/lukePeavey/quotable)  which is a simple API for getting quotes. All the quotes are obtained by this API only.
