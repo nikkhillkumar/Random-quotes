@@ -1,0 +1,30 @@
+
+.quote {
+  text-align: center;
+  font-size: 60px;
+  padding: 20px;
+}
+
+.popup {
+  width: 500px;
+  height: 400px;
+}
+
+/* Add some basic styling to the button */
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Add some hover effect to the button */
+button:hover {
+  background-color: #3E8E41;
+} 
