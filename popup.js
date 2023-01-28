@@ -1,9 +1,7 @@
-// popup.js
 const generateQuoteButton = document.getElementById("generate-quote-button");
 const quoteDisplay = document.getElementById("quote");
 
-// an example of quotes
-
+// Using Fetch API
 generateQuoteButton.addEventListener("click", () => {
   fetch("https://quotable.io/random")
     .then((response) => response.json())
@@ -14,7 +12,5 @@ generateQuoteButton.addEventListener("click", () => {
     .catch((error) => {
       console.log("Error:", error);
     });
-
-  // generate a random number between 0 and the last index of quotes array
 
 });

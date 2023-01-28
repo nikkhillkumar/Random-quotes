@@ -10,7 +10,6 @@
   height: 400px;
 }
 
-/* Add some basic styling to the button */
 button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -24,7 +23,6 @@ button {
   cursor: pointer;
 }
 
-/* Add some hover effect to the button */
 button:hover {
   background-color: #3E8E41;
 } 
